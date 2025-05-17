@@ -18,15 +18,23 @@ Luxury rooms generated ₹560M revenue (highest among categories).
 🔹 Developed data-backed strategies, including dynamic pricing, upselling premium rooms, and targeted loyalty programs.
 
 Technical Execution:
+
 ✔ Data Cleaning & Modeling: Processed messy hotel data using Power Query.
+
 ✔ Advanced DAX Formulas: Calculated KPIs like ADR (Average Daily Rate), RevPAR, MoM/WoW growth.
+
 ✔ Visual Storytelling: Designed intuitive dashboards for real-time decision-making.
 
 Business Impact:
+
 The insights helped ITC Hotels identify:
+
 ✅ Revenue leaks (e.g., high cancellations in premium rooms).
+
 ✅ Untapped opportunities (e.g., last-minute booking promotions).
+
 ✅ Optimal pricing strategies to maximize RevPAR.
 
 Tools Used: Power BI, DAX, Power Query, Excel
+
 Outcome: A scalable analytics framework to drive 5-10% revenue growth through data-led decisions.
