@@ -2,7 +2,10 @@
 As a data analyst, I spearheaded a Power BI dashboard project for ITC Hotels, transforming raw booking data into actionable insights to boost revenue, reduce cancellations, and enhance occupancy rates.
 
 Key Highlights:
+
 🔹 Built an interactive dashboard tracking financial performance, occupancy trends, and booking behavior.
+
+
 🔹 Uncovered critical insights:
 
 Luxury rooms generated ₹560M revenue (highest among categories).
