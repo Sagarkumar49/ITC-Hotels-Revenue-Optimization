@@ -13,6 +13,8 @@ Luxury rooms generated ₹560M revenue (highest among categories).
 43.5% occupancy rate with a perfect 1.0 correlation to revenue growth.
 
 24.83% cancellation rate, costing ~₹20K in lost revenue.
+
+
 🔹 Developed data-backed strategies, including dynamic pricing, upselling premium rooms, and targeted loyalty programs.
 
 Technical Execution:
