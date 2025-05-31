@@ -73,3 +73,7 @@ Dashboard Screenshot (Add your actual screenshot path)*
 ## 💡 Skills Demonstrated
 
 `Power BI` `DAX` `Data Modeling` `Revenue Analytics` `Hospitality Tech`
+
+## 📜 License 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+Copyright © 2025 [Sagarkumar49](https://github.com/Sagarkumar49)
