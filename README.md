@@ -1,40 +1,75 @@
-# ITC-Hotel
-As a data analyst, I spearheaded a Power BI dashboard project for ITC Hotels, transforming raw booking data into actionable insights to boost revenue, reduce cancellations, and enhance occupancy rates.
+# ITC Hotels - Revenue Optimization Dashboard
 
-Key Highlights:
+A Power BI analytics solution to maximize revenue, reduce cancellations, and improve occupancy rates
 
-🔹 Built an interactive dashboard tracking financial performance, occupancy trends, and booking behavior.
+## 📌 Overview
 
+This project analyzes ITC Hotels’ booking data to uncover trends in revenue, occupancy, and cancellations. The interactive Power BI dashboard provides actionable insights to:
 
-🔹 Uncovered critical insights:
+- Optimize pricing strategies (ADR, RevPAR)
 
-Luxury rooms generated ₹560M revenue (highest among categories).
+- Reduce booking cancellations (24.83% rate)
 
-43.5% occupancy rate with a perfect 1.0 correlation to revenue growth.
+- Boost occupancy (43.5% baseline)
 
-24.83% cancellation rate, costing ~₹20K in lost revenue.
+- Identify high-value room categories (Luxury & Premium rooms generated ₹1.02B combined)
 
+## 🔍 Key Insights
 
-🔹 Developed data-backed strategies, including dynamic pricing, upselling premium rooms, and targeted loyalty programs.
+- Revenue Analysis:
 
-Technical Execution:
+  - Total revenue: ₹1.71B with 50.44% MoM growth
 
-✔ Data Cleaning & Modeling: Processed messy hotel data using Power Query.
+  - Top-performing cities: Mumbai, Delhi, Bangalore
 
-✔ Advanced DAX Formulas: Calculated KPIs like ADR (Average Daily Rate), RevPAR, MoM/WoW growth.
+- Cancellation Trends:
 
-✔ Visual Storytelling: Designed intuitive dashboards for real-time decision-making.
+  - 33K bookings canceled → ₹20K lost revenue
 
-Business Impact:
+  - Elite/Premium rooms had highest cancellation rates
 
-The insights helped ITC Hotels identify:
+- Occupancy-RevPAR Correlation: 1.0 (perfect positive)
 
-✅ Revenue leaks (e.g., high cancellations in premium rooms).
+## 🛠️ Technical Implementation
 
-✅ Untapped opportunities (e.g., last-minute booking promotions).
+- Data Processing: Cleaned raw booking data using Power Query
 
-✅ Optimal pricing strategies to maximize RevPAR.
+- DAX Formulas: Calculated:
 
-Tools Used: Power BI, DAX, Power Query, Excel
+```dax
+ADR = (Revenue from occupied rooms + Cancellation penalties) / Total rooms  
+RevPAR = Total revenue / Total available rooms
+```  
+- Visualizations: Interactive dashboards for:
 
-Outcome: A scalable analytics framework to drive 5-10% revenue growth through data-led decisions.
+  - Financial performance
+
+  - Occupancy trends
+
+  - Cancellation hotspots
+
+## 🚀 Business Impact
+
+Proposed strategies could:
+
+- Increase revenue by 5-10% through dynamic pricing
+
+- Reduce cancellations by 8% with non-refundable discounts
+
+- Improve occupancy via last-minute booking promotions
+
+## 📂 Files Included
+
+- ITC_Hotel_Dashboard.pbix (Power BI file)
+
+- DAX_Measures.txt (Key formulas)
+
+- Sample_Dataset.csv (Anonymized data)
+
+## 📊 Preview
+
+Dashboard Screenshot (Add your actual screenshot path)*
+
+## 💡 Skills Demonstrated
+
+`Power BI` `DAX` `Data Modeling` `Revenue Analytics` `Hospitality Tech`
